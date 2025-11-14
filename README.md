@@ -1,6 +1,6 @@
 # Snow Surfer
 A 2D arcade game built with Unity where the player rides a snowboard down snowy slopes, perform cool tricks mid-air and collect boosts to be even faster!
-###### Created and upgraded by aqvoidDev(me) while following a Complete C# Unity 2D Game Development from GameDev.tv(On Udemy)[https://www.udemy.com/course/unitycourse].
+###### Created and upgraded by aqvoidDev/AlthesDev(me) while following a Complete C# Unity 2D Game Development from GameDev.tv(On Udemy)[https://www.udemy.com/course/unitycourse].
 
 ## How to Play
 
@@ -24,7 +24,7 @@ A 2D arcade game built with Unity where the player rides a snowboard down snowy 
 - Randomly generated environment sprites  
 
 ## How to run
-1. Install the latest build SnowSurfer_vX.X.zip from Releases [https://github.com/aqvoid/Snow-Surfer/releases]
+1. Install the latest build SnowSurfer_vX.X.zip from Releases [https://github.com/AlthesDev/Snow-Surfer/releases]
 2. Unzip the archive
 3. Run "Snow Surfer.exe" (Windows)
 
